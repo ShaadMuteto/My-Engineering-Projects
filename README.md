@@ -1,5 +1,3 @@
-# My-Engineering-Projects
-My personal engineering projects
 # Mechanical Engineering Portfolio
 
 Welcome to my engineering portfolio.
